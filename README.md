@@ -243,3 +243,11 @@ For running specific programming languages, you need to install additional softw
 - Go
 
 But you might want to install other programming languages :)
+
+# Other
+
+- Rectangle
+- AltTab
+- Spotify
+- Slack
+- Whatsapp
